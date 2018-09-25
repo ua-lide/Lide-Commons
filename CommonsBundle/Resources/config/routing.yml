@@ -1,0 +1,3 @@
+lide_commons_homepage:
+    path:     /
+    defaults: { _controller: LideCommonsBundle:Default:index }
